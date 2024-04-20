@@ -1,0 +1,4 @@
+baseURL = 'https://blog.riverflows.in/'
+languageCode = 'zh-cn'
+title = 'S.T.A.R.S. Blog'
+theme = 'me'
