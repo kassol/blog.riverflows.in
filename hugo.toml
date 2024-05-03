@@ -1,6 +1,6 @@
 baseURL = 'https://blog.riverflows.in/'
 languageCode = 'zh-cn'
-title = '无限进步'
+title = '無限進步'
 theme = 'me'
 
 [frontmatter]
