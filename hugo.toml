@@ -1,4 +1,19 @@
 baseURL = 'https://blog.riverflows.in/'
 languageCode = 'zh-cn'
-title = 'S.T.A.R.S. Blog'
+title = '无限进步'
 theme = 'me'
+
+[frontmatter]
+  lastmod = ['lastmod', ':git', ':fileModTime', 'date', 'publishDate']
+
+
+[[menu.main]]
+    name = "博客"
+    url = "/blog/"
+    weight = 1
+
+# [[menu.main]]
+#     name = "书影"
+#     url = "/bv/"
+#     weight = 2
+
