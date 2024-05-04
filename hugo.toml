@@ -5,7 +5,7 @@ theme = 'me'
 timeZone = 'Asia/Shanghai'
 
 [frontmatter]
-  lastmod = ['lastmod', ':git', ':fileModTime', 'date', 'publishDate']
+  lastmod = [':git', ':fileModTime', 'date', 'publishDate']
 
 
 [[menu.main]]
